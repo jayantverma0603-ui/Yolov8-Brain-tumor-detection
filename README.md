@@ -72,4 +72,16 @@ The trained YOLOv8n model was tested on MRI scan images to detect and localize t
 
 ![Prediction 4](results/predictions/prediction_4.png)
 
+## Future Improvements
+
+- Experiment with larger YOLOv8 variants for improved detection performance
+- Increase dataset diversity and size
+- Explore image augmentation and hyperparameter optimization
+- Investigate tumor segmentation for more precise localization
+- Improve the deployment interface for practical testing
+
+  ## Conclusion
+
+This project demonstrates the use of YOLOv8 for automated brain tumor detection and localization from MRI scans. The model achieved 84.9% mAP@50 and 84.7% recall on the validation dataset, showing promising performance for computer vision-based medical image analysis.
+
 
