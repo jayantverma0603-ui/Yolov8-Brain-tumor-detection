@@ -72,6 +72,19 @@ The trained YOLOv8n model was tested on MRI scan images to detect and localize t
 
 ![Prediction 4](results/predictions/prediction_4.png)
 
+## Architecture
+MRI Scan
+   ↓
+Image Preprocessing
+   ↓
+YOLOv8n
+   ↓
+Tumor Detection
+   ↓
+Bounding Box
+   ↓
+Confidence Score
+
 ## Future Improvements
 
 - Experiment with larger YOLOv8 variants for improved detection performance
