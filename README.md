@@ -85,6 +85,12 @@ Bounding Box
    ↓
 Confidence Score
 
+## Detection Example
+
+A sample result from the trained YOLOv8n model is shown below.
+
+![Brain Tumor Detection](results/predictions/result_1.png)
+
 ## Future Improvements
 
 - Experiment with larger YOLOv8 variants for improved detection performance
