@@ -58,4 +58,18 @@ The model achieved a **mAP@50 of 84.9%** and a **recall of 84.7%**, demonstratin
 * Final validation box loss: **1.306**
 * Final validation class loss: **0.771**
 
+  ## Demo / Predictions
+
+The trained YOLOv8n model was tested on MRI scan images to detect and localize tumor regions.
+
+### Sample Predictions
+
+![Prediction 1](results/predictions/prediction_1.png)
+
+![Prediction 2](results/predictions/prediction_2.png)
+
+![Prediction 3](results/predictions/prediction_3.png)
+
+![Prediction 4](results/predictions/prediction_4.png)
+
 
